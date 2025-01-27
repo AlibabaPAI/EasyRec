@@ -35,6 +35,7 @@ from tensorflow.python.summary import summary_iterator
 from tensorflow.python.training import basic_session_run_hooks
 from tensorflow.python.training import session_run_hook
 from tensorflow.python.training import training_util
+from tensorflow_estimator.python.estimator.estimator_export import estimator_export
 
 from easy_rec.python.utils.config_util import parse_time
 from easy_rec.python.utils.load_class import load_by_path
