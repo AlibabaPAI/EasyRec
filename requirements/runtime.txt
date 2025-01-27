@@ -11,3 +11,5 @@ pyodps
 PyYAML
 scikit-learn
 xlrd >= 0.9.0
+pydatahub
+kafka-python
